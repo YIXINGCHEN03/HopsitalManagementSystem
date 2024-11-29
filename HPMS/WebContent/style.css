@@ -1,0 +1,32 @@
+.carousel-inner{
+	height: 80%;
+}
+
+.dropdown-menu[data-bs-popper]{
+    position: absolute !important;
+    left: -40% !important;
+}
+
+
+.text_con{
+    width: 48%;
+    top: 20%;
+    right: 5%;
+    /*background: rgba(0, 0, 0, 0.5); !* Optional: semi-transparent background *!*/
+    padding: 20px;
+    border-radius: 5px;
+}
+.left{
+    right: 0;
+    left: 8%;
+}
+
+.text_con h2{
+    font-size: 45px;
+}
+
+.text_con p{
+    margin: 0;
+    padding-top: 4px;
+    font-size: 20px;
+}
